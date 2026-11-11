@@ -43,7 +43,7 @@ We are working on all the tasks “grouping” according these roles
 Team Member	Role	Week 1	Week 2	Week 3	Week 4
 	Data Engineer	Designs the SQL data model, loads the data and writes the validation queries	Supports SQL queries for all questions	Prepares monthly time-series datasets	Creates the SQL views and tests the data connection
 	Data Analyst (Products and Regions)	Cleans the data in pandas (dates, missing values, duplicates, product names)	Answers questions 	Builds the Linear Regression baseline and the category forecasts	Writes the report sections on data, cleaning and analysis
-	Data Analyst (Customers and Operations)	Creates derived features (Year, Month, Quarter, Shipping Days) and quality charts	Answers questions 	Builds the Random Forest or Gradient Boosting model, evaluates MAE, RMSE and MAPE, and forecasts by region	Writes the report sections on forecasting, recommendations and limitations
+	Data Analyst (Customers and Operations)	Creates derived features (Year, Month, Quarter, Shipping Days) and quality charts	Answers questions 	Builds forecasts Measures by region,	Writes the report sections on forecasting, recommendations and limitations
 	BI Developer and Presentation Lead	Documents the data dictionary and the before/after cleaning summary	Reviews the charts and keeps the question document consistent	Produces the final forecast plots and interprets the results	Builds and tests the dashboard and prepares the final presentation
 
 Tools: 
